@@ -8,8 +8,6 @@
 2. 审核相关配置
 
 ### 2.1 审核相关配置
-
-
     库：i61_config
         表：configData
             说明：订单、优惠券模块
@@ -122,25 +120,6 @@ CREATE TABLE `dengta_app_publish` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=167 DEFAULT CHARSET=utf8mb4 ROW_FORMAT=DYNAMIC COMMENT='应用发布表'
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 其他APP相关的配置
 
